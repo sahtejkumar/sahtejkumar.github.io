@@ -30,7 +30,7 @@ nav{
 .logo{
     width: 10px;
     font-size: 40px;
-    color: #ff004f;
+    color: #00a2ff;
     text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ nav ul li a::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #ff004f;
+    background: #00a2ff;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -72,9 +72,9 @@ nav ul li a:hover::after{
 }
 
 .header-text span{
-    -webkit-text-stroke:0.5px #ff004f;
+    -webkit-text-stroke:0.5px #00a2ff;
     color: transparent;
-    background-image: linear-gradient(#ff004f,#ff004f);
+    background-image: linear-gradient(#00a2ff,#00a2ff);
     background-repeat: no-repeat;
     -webkit-background-clip: text;
     background-position: -72vh 0;
@@ -128,7 +128,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #ff004f;
+    background: #00a2ff;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -143,7 +143,7 @@ nav ul li a:hover::after{
 }
 
 .tab-contents ul li span{
-    color: #ff004f;
+    color: #00a2ff;
     font-size: 14px;
 } 
 .tab-contents{
@@ -195,7 +195,7 @@ nav ul li a:hover::after{
     display: inline-block;
 }
 .services-list div:hover{
-    background: #ff004f;
+    background: #00a2ff;
     transform: translateY(10px);
 }
 
@@ -234,7 +234,7 @@ nav ul li a:hover::after{
 .layer{
     width: 100%;
     height: 0;
-    background: linear-gradient(rgba(0,0,0,0.6), #ff004f);
+    background: linear-gradient(rgba(0,0,0,0.6), #00a2ff);
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -274,7 +274,7 @@ nav ul li a:hover::after{
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid #ff004f;
+    border: 1px solid #00a2ff;
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
@@ -282,7 +282,7 @@ nav ul li a:hover::after{
     transition: background 0.5s;
 }
 .btn:hover{
-    background: #ff004f;
+    background: #00a2ff;
 }
 
 #teck-stack{
@@ -321,7 +321,7 @@ nav ul li a:hover::after{
 
 }
 .contact-left p i{
-    color: #ff004f;
+    color: #00a2ff;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -338,12 +338,12 @@ nav ul li a:hover::after{
 }
 
 .social-icons a:hover{
-    color: #ff004f;
+    color: #00a2ff;
     transform: translateY(-5px);
 }
 .btn.btn2{
 display: inline-block;
-background: #ff004f;
+background: #00a2ff;
 }
 .contact-right{
     width: 100%;
@@ -427,7 +427,7 @@ nav .fa-solid{
 }
 .image_pro img:hover{
     border-radius: 10px;
-    border: 1px solid #ff004f;
+    border: 1px solid #00a2ff;
     transform: translateY(14px);
 }
 .links-project{
@@ -498,7 +498,7 @@ nav ul li a{
     position: relative ;
 }
 .fa-bars{
-    color: #ff004f;
+    color: #00a2ff;
 }
     .layer h3{
         text-align: left;
@@ -548,7 +548,7 @@ nav ul li a{
         font-size: 25px;
     }
     nav ul {
-        background: #ff004f;
+        background: #00a2ff;
         position: fixed;
         top: 0;
         right: -200px;
@@ -619,7 +619,7 @@ html{
 	align-items: center;
 	height: 3.5rem;
 	width: 3.5rem;
-	background-color: #ff004f;
+	background-color: #00a2ff;
 	border-radius: 50%;
 	z-index: 10;
 	visibility: hidden;
